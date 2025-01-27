@@ -120,5 +120,164 @@ Remember, you don't need to buy everything at once. Start with the basics and ad
     author: 'John Carpenter',
     readTime: '15 min read'
   },
-  // Add more blog posts here...
+  {
+    id: '2',
+    title: 'Mastering Dovetail Joints: A Complete Guide',
+    category: 'advanced',
+    excerpt: 'Learn the art of creating perfect dovetail joints, from layout to execution. This comprehensive guide covers traditional hand-cut methods and modern approaches.',
+    content: `
+# Mastering Dovetail Joints: A Complete Guide
+
+![Dovetail Joint](https://images.unsplash.com/photo-1544164559-2e64cde85647?auto=format&fit=crop&q=80)
+
+## Table of Contents
+1. [Understanding Dovetails](#understanding-dovetails)
+2. [Tools Required](#tools-required)
+3. [Step-by-Step Process](#step-by-step-process)
+4. [Common Mistakes](#common-mistakes)
+5. [Advanced Techniques](#advanced-techniques)
+6. [Troubleshooting](#troubleshooting)
+
+## Understanding Dovetails
+
+The dovetail joint is often considered the hallmark of fine woodworking. Its distinctive appearance and incredible strength have made it a favorite among craftsmen for centuries. Let's dive deep into mastering this essential woodworking skill.
+
+![Dovetail Layout](https://images.unsplash.com/photo-1580664892374-a1f99d162c4b?auto=format&fit=crop&q=80)
+
+## Tools Required
+
+### Essential Tools
+1. **Marking and Measuring**
+   - Marking gauge
+   - Dovetail marker (1:6 or 1:8 ratio)
+   - Sharp pencil
+   - Quality ruler
+
+2. **Cutting Tools**
+   - Dovetail saw (Western or Japanese)
+   - Sharp chisels (1/4", 1/2", 3/4")
+   - Mallet
+
+3. **Support Tools**
+   - Bench hook
+   - Workbench with vise
+   - Cutting board
+
+> **Pro Tip**: Invest in a quality dovetail saw. The precision of your cuts will directly impact the quality of your joints.
+
+## Step-by-Step Process
+
+### 1. Preparation
+First, ensure your boards are:
+- Square on all faces
+- Cut to final dimensions
+- Marked clearly for reference
+
+### 2. Layout
+Follow these steps for perfect layout:
+1. Mark baseline on both pieces
+2. Set marking gauge to material thickness
+3. Score baseline all around
+4. Mark pin board first (contrary to common advice)
+
+### 3. Cutting Technique
+
+![Cutting Dovetails](https://images.unsplash.com/photo-1572297870735-ea83df52f2e9?auto=format&fit=crop&q=80)
+
+#### Proper Saw Technique
+- Hold saw at correct angle (use guide initially)
+- Let saw weight do the work
+- Focus on staying on waste side of lines
+- Cut tails first, then pins
+
+| Common Angles | Softwood | Hardwood |
+|--------------|----------|-----------|
+| Standard     | 1:6      | 1:8      |
+| Fine         | 1:7      | 1:9      |
+| Decorative   | 1:5      | 1:7      |
+
+## Common Mistakes
+
+1. **Poor Layout**
+   - Solution: Use sharp pencils and precise marking tools
+   - Double-check measurements before cutting
+
+2. **Sawing Beyond Baseline**
+   - Solution: Practice saw control
+   - Use bench hooks for stability
+
+3. **Rushing the Process**
+   - Solution: Take your time
+   - Focus on accuracy over speed
+
+## Advanced Techniques
+
+### 1. Hidden Dovetails
+Perfect for:
+- Drawer fronts
+- Fine furniture
+- Modern designs
+
+### 2. Variable Spacing
+Create unique patterns by:
+- Varying tail widths
+- Adjusting spacing
+- Using asymmetrical layouts
+
+### 3. Compound Dovetails
+Advanced applications:
+- Angled joins
+- Multiple corners
+- Curved work
+
+## Troubleshooting
+
+### Common Issues and Solutions
+
+1. **Gaps in Joints**
+   - Cause: Inaccurate sawing
+   - Solution: Use sharp tools and take more care with layout
+
+2. **Loose Fits**
+   - Cause: Overcutting
+   - Solution: Cut slightly proud of lines and pare to fit
+
+3. **Tight Spots**
+   - Cause: Inconsistent marking
+   - Solution: Use marking gauge consistently
+
+## Practice Projects
+
+Start with these projects to build skill:
+1. Simple box with through dovetails
+2. Small drawer with half-blind dovetails
+3. Tool tote with multiple joints
+
+> **Workshop Tip**: Practice on scrap wood before working on your project. Pine is great for learning as it's soft and inexpensive.
+
+## Maintenance Tips
+
+Keep your tools in top condition:
+- Sharpen chisels regularly
+- Wax saw plates to prevent rust
+- Store tools properly
+
+## Conclusion
+
+Mastering dovetails takes time and patience. Focus on:
+1. Accurate marking
+2. Consistent cutting
+3. Clean chisel work
+4. Regular practice
+
+Remember, even master craftsmen were beginners once. Keep practicing, and you'll soon be creating beautiful, strong dovetail joints worthy of fine furniture.
+
+---
+
+*Join our community to share your dovetailing journey and learn from fellow woodworkers!*`,
+    imageUrl: 'https://images.unsplash.com/photo-1544164559-2e64cde85647?auto=format&fit=crop&q=80',
+    date: '2024-03-16',
+    author: 'Sarah Woods',
+    readTime: '20 min read'
+  }
 ];
