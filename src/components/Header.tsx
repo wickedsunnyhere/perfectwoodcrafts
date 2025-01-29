@@ -12,7 +12,7 @@ export default function Header() {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <img
-                src='src/assets/logo.png'
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz6CusXUSNKO0kW5b7v5fuCe2QM6Ngdg4QPRE8gGzqCz9Gtmxs2xrUfGnjXpQefXK_aC97aOB2RZR46s-QYUrD71WciMhTeOci98LJz58HrPeTejLlyvgDqb64_b3cMkzsRSSDRBjhZMOX18set9_hDJ3ly8HYg3ZIJNXDzKXQGzcvM8iWXbTTrknsXUc/s320/Copy%20of%20Logo.png"
                 alt="Perfect Wood Crafts"
                 className="h-16 w-auto"
               />

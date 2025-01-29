@@ -6,7 +6,7 @@ export default function Hero() {
     <div className="relative h-[600px]">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?auto=format&fit=crop&q=80"
+          src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzd6flVqfrKTd4ez4ElH2TPsfGUZQ496ESukL2nJ2-kHkdpkRJrOqCF_6oY4C20965PoCXrr8bHlunD001KQlvCRNfSAFYiRUNla1jfpniimytYhguMji0niaWRo0reqVtuqwv6HUuTH7oOjRr8gkEYeGeVJQ-dDJHk5XCPvdWRIK7nKoWgKzj-qslKQ/s1472/Flux_Dev_A_beautifully_lit_woodworking_workshop_with_a_rustic__2.jpeg"
           alt="Woodworking Workshop"
           className="w-full h-full object-cover"
         />
