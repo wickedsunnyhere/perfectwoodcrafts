@@ -38,10 +38,6 @@ function TitleUpdater() {
       case '/contact':
         title = 'Contact Us | Perfect Wood Crafts';
         break;
-      default:
-        if (path.startsWith('/blog/')) {
-          title = 'Blog Post | Perfect Wood Crafts';
-        }
     }
 
     document.title = title;
